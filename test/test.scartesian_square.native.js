@@ -28,7 +28,7 @@ var tryRequire = require( '@stdlib/utils-try-require' );
 
 // VARIABLES //
 
-var scartesianSquare = tryRequire( resolve( __dirname, './../lib/scartesiansquare.native.js' ) );
+var scartesianSquare = tryRequire( resolve( __dirname, './../lib/scartesian_square.native.js' ) );
 var opts = {
 	'skip': ( scartesianSquare instanceof Error )
 };

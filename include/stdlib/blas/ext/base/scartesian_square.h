@@ -16,8 +16,8 @@
 * limitations under the License.
 */
 
-#ifndef STDLIB_BLAS_EXT_BASE_SCARTESIANSQUARE_H
-#define STDLIB_BLAS_EXT_BASE_SCARTESIANSQUARE_H
+#ifndef STDLIB_BLAS_EXT_BASE_SCARTESIAN_SQUARE_H
+#define STDLIB_BLAS_EXT_BASE_SCARTESIAN_SQUARE_H
 
 #include "stdlib/blas/base/shared.h"
 
@@ -42,4 +42,4 @@ void API_SUFFIX(stdlib_strided_scartesian_square_ndarray)( const CBLAS_INT N, co
 }
 #endif
 
-#endif // !STDLIB_BLAS_EXT_BASE_SCARTESIANSQUARE_H
+#endif // !STDLIB_BLAS_EXT_BASE_SCARTESIAN_SQUARE_H

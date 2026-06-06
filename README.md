@@ -223,7 +223,7 @@ console.log( out );
 ### Usage
 
 ```c
-#include "stdlib/blas/ext/base/scartesiansquare.h"
+#include "stdlib/blas/ext/base/scartesian_square.h"
 ```
 
 #### stdlib_strided_scartesian_square( order, N, \*X, strideX, \*Out, LDO )
@@ -301,7 +301,7 @@ void stdlib_strided_scartesian_square_ndarray( const CBLAS_INT N, const float *X
 ### Examples
 
 ```c
-#include "stdlib/blas/ext/base/scartesiansquare.h"
+#include "stdlib/blas/ext/base/scartesian_square.h"
 #include "stdlib/blas/base/shared.h"
 #include <stdio.h>
 

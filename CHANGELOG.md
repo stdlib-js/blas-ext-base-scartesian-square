@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-11)
+## Unreleased (2026-09-07)
 
 <section class="features">
 
@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`0a4fd0d`](https://github.com/stdlib-js/stdlib/commit/0a4fd0d9d7b1c4ae02ae0e9220af9b6684e3bffa) - **refactor:** add support for enums in `blas/ext/base/*cartesian-square` [(#15066)](https://github.com/stdlib-js/stdlib/pull/15066) _(by Kaustubh Patange)_
 -   [`430fdea`](https://github.com/stdlib-js/stdlib/commit/430fdea947428af11c0e75dc6f6a0bd3cbd13e88) - **chore:** clean-up [(#13805)](https://github.com/stdlib-js/stdlib/pull/13805) _(by Philipp Burckhardt)_
 -   [`9dd3f73`](https://github.com/stdlib-js/stdlib/commit/9dd3f73544d43392c6ff8d5f290e0e466ac0c812) - **fix:** rename header files to align with project conventions _(by Athan Reines)_
 -   [`a601344`](https://github.com/stdlib-js/stdlib/commit/a601344e6d755e59e2df59ec4650f2b1e20aa333) - **fix:** type `order` parameter as `Layout` in `blas/ext/base/scartesian-square` [(#12530)](https://github.com/stdlib-js/stdlib/pull/12530) _(by Philipp Burckhardt)_
@@ -48,9 +49,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Kaustubh Patange
 -   Muhammad Haris
 -   Philipp Burckhardt
 
